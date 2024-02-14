@@ -1,0 +1,14 @@
+i will work on a calculator that works simple math problems
+
+it will have multiplication division addition and subtraction. will also have the option to delete values and clear the calculator.
+
+
+================================
+         Documentation
+================================
+
+Follow this folder path to the built app
+\InterCareer\Calculator\dist\Calculator.jar
+
+Follow this folder path to find the source code
+InterCareer\Calculator\src\calculator
